@@ -1,6 +1,6 @@
 # main text of home
 name: Adelia Ferreira
-bio: A little mommy who loves asian food
+bio: A developer new mommy who is back to working
 
 # twitter summary info
 description: A blog about a mommy technology and stuff related
@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+facebook: tayane.figueira
+twitter: figueiraTayane
 # instagram: myinstagram
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: adeliaferreira
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: adeliaferreira
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: adeliatf.ferreira@gmail.com
 
 authors:
   johndoe:
