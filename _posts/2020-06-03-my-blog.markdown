@@ -4,7 +4,7 @@ layout: post
 date: 2020-06-03 21:46
 tag: jekyll
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
-headerImage: true
+headerImage: false
 projects: true
 hidden: true # don't count this post in blog pagination
 description: "This is project about my blog"
