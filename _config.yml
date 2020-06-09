@@ -68,7 +68,8 @@ authors:
   adeliaferreira:
     name: Adelia Ferreira
     bio: A developer new mommy who is back to working
-    external-image: assets/image/profile-tay.jpg
+    external-image: false
+    picture: assets/images/profile-tay.jpg
     twitter: figueiratayane
 
     
